@@ -251,7 +251,6 @@
 					};
 					FB2F8D8019BF637B00E4C49E = {
 						CreatedOnToolsVersion = 6.0;
-						DevelopmentTeam = GYS967H4MT;
 					};
 					FB2F8D8B19BF637B00E4C49E = {
 						CreatedOnToolsVersion = 6.0;
